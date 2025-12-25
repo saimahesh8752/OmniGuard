@@ -14,6 +14,24 @@ Unlike standard "Constitutional AI" which relies on prompt engineering, Omni-Gua
 * **Zero-Shot Adaptation:** Users can define new safety rules (e.g., "Avoid Port A") in English, and the system compiles them into logic instantly.
 
 ## 🛠️ System Architecture
+## 🛠️ System Architecture
+
+```mermaid
+graph TD
+    User([Human Operator]) -->|Instruction: 'Avoid Port A'| Parser(Semantic Parser / LLM)
+    Parser -->|Template: AVOID_LOCATION| Compiler{Omni-Guard Compiler}
+    
+    subgraph "The Logic Kernel"
+    Compiler -->|Formal Logic| Z3[Z3 Solver]
+    Physics[Digital Twin Constraints] -->|Graph Topology| Z3
+    end
+    
+    Agent[AI Agent] -->|Proposed Trajectory| Z3
+    Z3 -->|Verification Check| Decision{Is Safe?}
+    
+    Decision -->|✅ Yes| Execute[Execute Action]
+    Decision -->|🛑 No| Block[Block & Retry]
+    Block --> Agent
 1.  **Semantic Parser:** Maps natural language to a constraint grammar.
 2.  **Logic Compiler:** Synthesizes Z3 assertions from the grammar.
 3.  **Digital Twin:** Simulates a scale-free logistics network (NetworkX).
