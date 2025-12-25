@@ -31,15 +31,28 @@ graph TD
     Decision -->|✅ Yes| Execute[Execute Action]
     Decision -->|🛑 No| Block[Block & Retry]
     Block --> Agent
- # 1. Clone the repository
- git clone https://github.com/saimahesh8752/OmniGuard.git
+```
 
- # 2. Install dependencies
- pip install z3-solver networkx
+1. Semantic Parser: Maps natural language to a constraint grammar.
+2. Logic Compiler: Synthesizes Z3 assertions from the grammar.
+3. Digital Twin: Simulates a scale-free logistics network (NetworkX).
+4. Verifier: Rejects any action plan that contradicts the safety theorems.
+Results:
+| Complexity | LLM Success Rate | Omni-Guard Safety Rate | Latency |
+| :--- | :--- | :--- | :--- |
+| Low (10 nodes) | 85% | **100%** | 12ms |
+| High (50 nodes) | 62% | **100%** | 45ms |
+ 
+# 1. Clone the repository
+git clone [https://github.com/saimahesh8752/OmniGuard.git](https://github.com/saimahesh8752/OmniGuard.git)
 
- # 3. Run the Stress Test
- python -m experiments.run_stress_test
- 🔗 Citation
+# 2. Install dependencies
+pip install z3-solver networkx
+
+# 3. Run the Stress Test
+python -m experiments.run_stress_test
+
+🔗 Citation
 If you use this framework, please cite:
 
 Sai Mahesh Sandeboina, "Thinking Fast and Verified: Neuro-Symbolic Guardrails for Embodied Intelligence," 2025.
