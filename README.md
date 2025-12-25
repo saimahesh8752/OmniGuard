@@ -37,7 +37,7 @@ graph TD
 2. Logic Compiler: Synthesizes Z3 assertions from the grammar.
 3. Digital Twin: Simulates a scale-free logistics network (NetworkX).
 4. Verifier: Rejects any action plan that contradicts the safety theorems.
-Results:
+# Results:
 | Complexity | LLM Success Rate | Omni-Guard Safety Rate | Latency |
 | :--- | :--- | :--- | :--- |
 | Low (10 nodes) | 85% | **100%** | 12ms |
