@@ -43,6 +43,7 @@ graph TD
 | Low (10 nodes) | 85% | **100%** | 12ms |
 | High (50 nodes) | 62% | **100%** | 45ms |
  
+ ```bash
 # 1. Clone the repository
 git clone [https://github.com/saimahesh8752/OmniGuard.git](https://github.com/saimahesh8752/OmniGuard.git)
 
@@ -51,7 +52,7 @@ pip install z3-solver networkx
 
 # 3. Run the Stress Test
 python -m experiments.run_stress_test
-
+```
 # 🔗 Citation
 If you use this framework, please cite:
 
