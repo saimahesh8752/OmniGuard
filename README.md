@@ -52,7 +52,7 @@ pip install z3-solver networkx
 # 3. Run the Stress Test
 python -m experiments.run_stress_test
 
-🔗 Citation
+# 🔗 Citation
 If you use this framework, please cite:
 
 Sai Mahesh Sandeboina, "Thinking Fast and Verified: Neuro-Symbolic Guardrails for Embodied Intelligence," 2025.
