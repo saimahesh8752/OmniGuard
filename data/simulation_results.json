@@ -1,0 +1,7002 @@
+[
+    {
+        "step": 0,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 31.39,
+        "reason": "SAFE"
+    },
+    {
+        "step": 1,
+        "proposed_node": 34,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 2,
+        "proposed_node": 41,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 3,
+        "proposed_node": 37,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 4,
+        "proposed_node": 34,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 5,
+        "proposed_node": 37,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 6,
+        "proposed_node": 40,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 7,
+        "proposed_node": 34,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 8,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.99,
+        "reason": "SAFE"
+    },
+    {
+        "step": 9,
+        "proposed_node": 34,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 10,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 11,
+        "proposed_node": 11,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 12,
+        "proposed_node": 34,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 13,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 14,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 8.65,
+        "reason": "SAFE"
+    },
+    {
+        "step": 15,
+        "proposed_node": 11,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 16,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 17,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 18,
+        "proposed_node": 47,
+        "outcome": "EXECUTED",
+        "latency_ms": 7.12,
+        "reason": "SAFE"
+    },
+    {
+        "step": 19,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 20,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 21,
+        "proposed_node": 29,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 22,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 23,
+        "proposed_node": 44,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 24,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 25,
+        "proposed_node": 17,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 26,
+        "proposed_node": 24,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 27,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 28,
+        "proposed_node": 4,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.74,
+        "reason": "SAFE"
+    },
+    {
+        "step": 29,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 30,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 31,
+        "proposed_node": 32,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 32,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 33,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 34,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 35,
+        "proposed_node": 10,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 36,
+        "proposed_node": 24,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 37,
+        "proposed_node": 27,
+        "outcome": "BLOCKED",
+        "latency_ms": 16.2,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 38,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 39,
+        "proposed_node": 36,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 40,
+        "proposed_node": 48,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 41,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 42,
+        "proposed_node": 32,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 43,
+        "proposed_node": 2,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 44,
+        "proposed_node": 35,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 45,
+        "proposed_node": 13,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 46,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 47,
+        "proposed_node": 32,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.84,
+        "reason": "SAFE"
+    },
+    {
+        "step": 48,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 49,
+        "proposed_node": 28,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 50,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 51,
+        "proposed_node": 10,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 52,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 53,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 54,
+        "proposed_node": 9,
+        "outcome": "BLOCKED",
+        "latency_ms": 15.71,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 55,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 56,
+        "proposed_node": 39,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 57,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 58,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 59,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 60,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 61,
+        "proposed_node": 30,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 62,
+        "proposed_node": 7,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 63,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.93,
+        "reason": "SAFE"
+    },
+    {
+        "step": 64,
+        "proposed_node": 30,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 65,
+        "proposed_node": 10,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 66,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 67,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 6.61,
+        "reason": "SAFE"
+    },
+    {
+        "step": 68,
+        "proposed_node": 34,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 69,
+        "proposed_node": 37,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 70,
+        "proposed_node": 34,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 71,
+        "proposed_node": 37,
+        "outcome": "EXECUTED",
+        "latency_ms": 3.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 72,
+        "proposed_node": 34,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 73,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 4.02,
+        "reason": "SAFE"
+    },
+    {
+        "step": 74,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 75,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 76,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 77,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 78,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 79,
+        "proposed_node": 6,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 80,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 81,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 14.12,
+        "reason": "SAFE"
+    },
+    {
+        "step": 82,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 83,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 84,
+        "proposed_node": 27,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 85,
+        "proposed_node": 38,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 86,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 87,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 88,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 89,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 90,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 91,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 92,
+        "proposed_node": 16,
+        "outcome": "BLOCKED",
+        "latency_ms": 16.15,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 93,
+        "proposed_node": 20,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 94,
+        "proposed_node": 19,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 95,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 96,
+        "proposed_node": 17,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 97,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 98,
+        "proposed_node": 32,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 99,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 100,
+        "proposed_node": 10,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.98,
+        "reason": "SAFE"
+    },
+    {
+        "step": 101,
+        "proposed_node": 41,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 102,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 103,
+        "proposed_node": 24,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 104,
+        "proposed_node": 20,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 105,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 106,
+        "proposed_node": 8,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 107,
+        "proposed_node": 10,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 108,
+        "proposed_node": 18,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 109,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 110,
+        "proposed_node": 13,
+        "outcome": "BLOCKED",
+        "latency_ms": 16.13,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 111,
+        "proposed_node": 35,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 112,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 113,
+        "proposed_node": 28,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 114,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 115,
+        "proposed_node": 24,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 116,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 117,
+        "proposed_node": 47,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 118,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.98,
+        "reason": "SAFE"
+    },
+    {
+        "step": 119,
+        "proposed_node": 16,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 120,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 121,
+        "proposed_node": 16,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 122,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 123,
+        "proposed_node": 3,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 124,
+        "proposed_node": 27,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 125,
+        "proposed_node": 25,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 126,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 127,
+        "proposed_node": 0,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 128,
+        "proposed_node": 16,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 129,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 16.2,
+        "reason": "SAFE"
+    },
+    {
+        "step": 130,
+        "proposed_node": 23,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.55,
+        "reason": "SAFE"
+    },
+    {
+        "step": 131,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 132,
+        "proposed_node": 26,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 133,
+        "proposed_node": 28,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 134,
+        "proposed_node": 26,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 135,
+        "proposed_node": 18,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 136,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 137,
+        "proposed_node": 17,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 138,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 139,
+        "proposed_node": 17,
+        "outcome": "EXECUTED",
+        "latency_ms": 14.09,
+        "reason": "SAFE"
+    },
+    {
+        "step": 140,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 141,
+        "proposed_node": 16,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 142,
+        "proposed_node": 18,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 143,
+        "proposed_node": 45,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 144,
+        "proposed_node": 5,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 145,
+        "proposed_node": 35,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 146,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 147,
+        "proposed_node": 37,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 148,
+        "proposed_node": 18,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.73,
+        "reason": "SAFE"
+    },
+    {
+        "step": 149,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 150,
+        "proposed_node": 18,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 151,
+        "proposed_node": 49,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 152,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 153,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 154,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 155,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 156,
+        "proposed_node": 48,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 157,
+        "proposed_node": 30,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 158,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.79,
+        "reason": "SAFE"
+    },
+    {
+        "step": 159,
+        "proposed_node": 22,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 160,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 161,
+        "proposed_node": 48,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 162,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 163,
+        "proposed_node": 18,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 164,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 165,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 166,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 167,
+        "proposed_node": 32,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.98,
+        "reason": "SAFE"
+    },
+    {
+        "step": 168,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 169,
+        "proposed_node": 35,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 170,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 171,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 172,
+        "proposed_node": 48,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 173,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 174,
+        "proposed_node": 17,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 175,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 176,
+        "proposed_node": 4,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.93,
+        "reason": "SAFE"
+    },
+    {
+        "step": 177,
+        "proposed_node": 25,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 178,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 179,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 180,
+        "proposed_node": 48,
+        "outcome": "EXECUTED",
+        "latency_ms": 12.19,
+        "reason": "SAFE"
+    },
+    {
+        "step": 181,
+        "proposed_node": 19,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 182,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 3.48,
+        "reason": "SAFE"
+    },
+    {
+        "step": 183,
+        "proposed_node": 32,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 184,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 185,
+        "proposed_node": 35,
+        "outcome": "EXECUTED",
+        "latency_ms": 6.96,
+        "reason": "SAFE"
+    },
+    {
+        "step": 186,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 187,
+        "proposed_node": 4,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 188,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 189,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 4.68,
+        "reason": "SAFE"
+    },
+    {
+        "step": 190,
+        "proposed_node": 9,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 191,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 192,
+        "proposed_node": 31,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 193,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 194,
+        "proposed_node": 25,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 195,
+        "proposed_node": 31,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 196,
+        "proposed_node": 17,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 197,
+        "proposed_node": 20,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 198,
+        "proposed_node": 14,
+        "outcome": "BLOCKED",
+        "latency_ms": 15.91,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 199,
+        "proposed_node": 19,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.74,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 200,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 201,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 202,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 4.02,
+        "reason": "SAFE"
+    },
+    {
+        "step": 203,
+        "proposed_node": 48,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 204,
+        "proposed_node": 4,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 205,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 206,
+        "proposed_node": 3,
+        "outcome": "BLOCKED",
+        "latency_ms": 3.02,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 207,
+        "proposed_node": 48,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 208,
+        "proposed_node": 41,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 209,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 210,
+        "proposed_node": 41,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 211,
+        "proposed_node": 47,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 212,
+        "proposed_node": 14,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 213,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 214,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 215,
+        "proposed_node": 18,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 216,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 217,
+        "proposed_node": 15,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.74,
+        "reason": "SAFE"
+    },
+    {
+        "step": 218,
+        "proposed_node": 11,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 219,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 220,
+        "proposed_node": 16,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 221,
+        "proposed_node": 16,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 222,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 223,
+        "proposed_node": 2,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 224,
+        "proposed_node": 27,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 225,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 226,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 227,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.74,
+        "reason": "SAFE"
+    },
+    {
+        "step": 228,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 229,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 230,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 231,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 232,
+        "proposed_node": 32,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 233,
+        "proposed_node": 25,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 234,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 235,
+        "proposed_node": 27,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 236,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 237,
+        "proposed_node": 15,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 238,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.81,
+        "reason": "SAFE"
+    },
+    {
+        "step": 239,
+        "proposed_node": 10,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 240,
+        "proposed_node": 34,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 241,
+        "proposed_node": 11,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 242,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 243,
+        "proposed_node": 15,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 244,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 245,
+        "proposed_node": 28,
+        "outcome": "BLOCKED",
+        "latency_ms": 12.18,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 246,
+        "proposed_node": 27,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 247,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 248,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 3.87,
+        "reason": "SAFE"
+    },
+    {
+        "step": 249,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 250,
+        "proposed_node": 46,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 251,
+        "proposed_node": 17,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 252,
+        "proposed_node": 20,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 253,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 254,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 255,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 256,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 257,
+        "proposed_node": 18,
+        "outcome": "BLOCKED",
+        "latency_ms": 16.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 258,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 259,
+        "proposed_node": 25,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 260,
+        "proposed_node": 40,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 261,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 262,
+        "proposed_node": 41,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 263,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 264,
+        "proposed_node": 49,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 265,
+        "proposed_node": 42,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 266,
+        "proposed_node": 37,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 267,
+        "proposed_node": 25,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 268,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 16.07,
+        "reason": "SAFE"
+    },
+    {
+        "step": 269,
+        "proposed_node": 42,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 270,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 271,
+        "proposed_node": 40,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 272,
+        "proposed_node": 34,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 273,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 274,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 275,
+        "proposed_node": 44,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 276,
+        "proposed_node": 25,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 277,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 278,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 279,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.8,
+        "reason": "SAFE"
+    },
+    {
+        "step": 280,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 281,
+        "proposed_node": 31,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 282,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 283,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 284,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 285,
+        "proposed_node": 7,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 286,
+        "proposed_node": 36,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 287,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 288,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 289,
+        "proposed_node": 18,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 290,
+        "proposed_node": 11,
+        "outcome": "BLOCKED",
+        "latency_ms": 16.09,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 291,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 292,
+        "proposed_node": 13,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 293,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 294,
+        "proposed_node": 7,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 295,
+        "proposed_node": 32,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 296,
+        "proposed_node": 15,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 297,
+        "proposed_node": 26,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 298,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 299,
+        "proposed_node": 26,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 300,
+        "proposed_node": 1,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 301,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 302,
+        "proposed_node": 25,
+        "outcome": "BLOCKED",
+        "latency_ms": 15.76,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 303,
+        "proposed_node": 26,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 304,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 305,
+        "proposed_node": 44,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 306,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 307,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 308,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 309,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 310,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 311,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 312,
+        "proposed_node": 20,
+        "outcome": "BLOCKED",
+        "latency_ms": 15.79,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 313,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 314,
+        "proposed_node": 24,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 315,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 316,
+        "proposed_node": 4,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 317,
+        "proposed_node": 9,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 318,
+        "proposed_node": 5,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 319,
+        "proposed_node": 19,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 320,
+        "proposed_node": 47,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 321,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 322,
+        "proposed_node": 25,
+        "outcome": "BLOCKED",
+        "latency_ms": 15.07,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 323,
+        "proposed_node": 38,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 324,
+        "proposed_node": 19,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 325,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 326,
+        "proposed_node": 30,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 327,
+        "proposed_node": 33,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 328,
+        "proposed_node": 17,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 329,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 330,
+        "proposed_node": 43,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 331,
+        "proposed_node": 30,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.79,
+        "reason": "SAFE"
+    },
+    {
+        "step": 332,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 333,
+        "proposed_node": 30,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 334,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 335,
+        "proposed_node": 35,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 336,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 337,
+        "proposed_node": 43,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 338,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 339,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 340,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 341,
+        "proposed_node": 42,
+        "outcome": "BLOCKED",
+        "latency_ms": 15.75,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 342,
+        "proposed_node": 10,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 343,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 344,
+        "proposed_node": 28,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 345,
+        "proposed_node": 28,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 346,
+        "proposed_node": 9,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 347,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 348,
+        "proposed_node": 17,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 349,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 350,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.8,
+        "reason": "SAFE"
+    },
+    {
+        "step": 351,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 352,
+        "proposed_node": 40,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 353,
+        "proposed_node": 22,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 354,
+        "proposed_node": 33,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 355,
+        "proposed_node": 34,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 356,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 357,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 358,
+        "proposed_node": 33,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 359,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.76,
+        "reason": "SAFE"
+    },
+    {
+        "step": 360,
+        "proposed_node": 33,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 361,
+        "proposed_node": 18,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 362,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 363,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 364,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 365,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 366,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 367,
+        "proposed_node": 8,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 368,
+        "proposed_node": 40,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 369,
+        "proposed_node": 21,
+        "outcome": "BLOCKED",
+        "latency_ms": 15.82,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 370,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 371,
+        "proposed_node": 41,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 372,
+        "proposed_node": 32,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 373,
+        "proposed_node": 38,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 374,
+        "proposed_node": 42,
+        "outcome": "BLOCKED",
+        "latency_ms": 6.15,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 375,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 376,
+        "proposed_node": 42,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 377,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 378,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 379,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 380,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 9.88,
+        "reason": "SAFE"
+    },
+    {
+        "step": 381,
+        "proposed_node": 29,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 382,
+        "proposed_node": 34,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 383,
+        "proposed_node": 37,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 384,
+        "proposed_node": 34,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 385,
+        "proposed_node": 37,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 386,
+        "proposed_node": 24,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 387,
+        "proposed_node": 34,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 388,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 389,
+        "proposed_node": 44,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 390,
+        "proposed_node": 34,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 391,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 392,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.79,
+        "reason": "SAFE"
+    },
+    {
+        "step": 393,
+        "proposed_node": 35,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 394,
+        "proposed_node": 45,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 395,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 396,
+        "proposed_node": 25,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 397,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 398,
+        "proposed_node": 25,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 399,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 400,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 401,
+        "proposed_node": 18,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 402,
+        "proposed_node": 26,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 403,
+        "proposed_node": 10,
+        "outcome": "BLOCKED",
+        "latency_ms": 15.8,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 404,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 405,
+        "proposed_node": 42,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 406,
+        "proposed_node": 30,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 407,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 408,
+        "proposed_node": 44,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 409,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 410,
+        "proposed_node": 29,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 411,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 412,
+        "proposed_node": 16,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 413,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.78,
+        "reason": "SAFE"
+    },
+    {
+        "step": 414,
+        "proposed_node": 13,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 415,
+        "proposed_node": 40,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 416,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 417,
+        "proposed_node": 33,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 418,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 419,
+        "proposed_node": 8,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 420,
+        "proposed_node": 36,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 421,
+        "proposed_node": 39,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 422,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 423,
+        "proposed_node": 16,
+        "outcome": "BLOCKED",
+        "latency_ms": 15.8,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 424,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 425,
+        "proposed_node": 42,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 426,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 427,
+        "proposed_node": 42,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 428,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 429,
+        "proposed_node": 10,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 430,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 431,
+        "proposed_node": 24,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 432,
+        "proposed_node": 10,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 433,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.75,
+        "reason": "SAFE"
+    },
+    {
+        "step": 434,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 435,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 436,
+        "proposed_node": 7,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 437,
+        "proposed_node": 42,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 438,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 439,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 440,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 11.11,
+        "reason": "SAFE"
+    },
+    {
+        "step": 441,
+        "proposed_node": 46,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 442,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 443,
+        "proposed_node": 14,
+        "outcome": "BLOCKED",
+        "latency_ms": 4.63,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 444,
+        "proposed_node": 12,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 445,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 446,
+        "proposed_node": 19,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 447,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 448,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 449,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 450,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 451,
+        "proposed_node": 24,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 452,
+        "proposed_node": 30,
+        "outcome": "BLOCKED",
+        "latency_ms": 15.76,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 453,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 454,
+        "proposed_node": 3,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 455,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 456,
+        "proposed_node": 35,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 457,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 458,
+        "proposed_node": 38,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 459,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 460,
+        "proposed_node": 24,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 461,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.74,
+        "reason": "SAFE"
+    },
+    {
+        "step": 462,
+        "proposed_node": 44,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 463,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 464,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 465,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 466,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 467,
+        "proposed_node": 44,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 468,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 469,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 470,
+        "proposed_node": 44,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 471,
+        "proposed_node": 47,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.74,
+        "reason": "SAFE"
+    },
+    {
+        "step": 472,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 473,
+        "proposed_node": 47,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 474,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 475,
+        "proposed_node": 47,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 476,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 477,
+        "proposed_node": 31,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 478,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 479,
+        "proposed_node": 47,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 480,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 481,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.74,
+        "reason": "SAFE"
+    },
+    {
+        "step": 482,
+        "proposed_node": 47,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 483,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 484,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 485,
+        "proposed_node": 17,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 486,
+        "proposed_node": 45,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 487,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 488,
+        "proposed_node": 19,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 489,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 490,
+        "proposed_node": 8,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 491,
+        "proposed_node": 22,
+        "outcome": "BLOCKED",
+        "latency_ms": 1.74,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 492,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 493,
+        "proposed_node": 12,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 494,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 495,
+        "proposed_node": 12,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 496,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 497,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 498,
+        "proposed_node": 17,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 499,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 500,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.74,
+        "reason": "SAFE"
+    },
+    {
+        "step": 501,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 502,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 503,
+        "proposed_node": 8,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 504,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 505,
+        "proposed_node": 26,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 506,
+        "proposed_node": 29,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 507,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 508,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 509,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 510,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 511,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 8.85,
+        "reason": "SAFE"
+    },
+    {
+        "step": 512,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 513,
+        "proposed_node": 46,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 514,
+        "proposed_node": 37,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 515,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 516,
+        "proposed_node": 31,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 517,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 518,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 519,
+        "proposed_node": 28,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 520,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 521,
+        "proposed_node": 22,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 522,
+        "proposed_node": 39,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 523,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 524,
+        "proposed_node": 3,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 525,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 526,
+        "proposed_node": 27,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 527,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 528,
+        "proposed_node": 30,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 529,
+        "proposed_node": 16,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 530,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 531,
+        "proposed_node": 29,
+        "outcome": "BLOCKED",
+        "latency_ms": 1.74,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 532,
+        "proposed_node": 1,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 533,
+        "proposed_node": 3,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 534,
+        "proposed_node": 10,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 535,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 536,
+        "proposed_node": 11,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 537,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 538,
+        "proposed_node": 4,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 539,
+        "proposed_node": 17,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 540,
+        "proposed_node": 7,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 541,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.74,
+        "reason": "SAFE"
+    },
+    {
+        "step": 542,
+        "proposed_node": 17,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 543,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 544,
+        "proposed_node": 44,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 545,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 546,
+        "proposed_node": 39,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 547,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 548,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 549,
+        "proposed_node": 46,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 550,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.74,
+        "reason": "SAFE"
+    },
+    {
+        "step": 551,
+        "proposed_node": 31,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 552,
+        "proposed_node": 47,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 553,
+        "proposed_node": 40,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 554,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 555,
+        "proposed_node": 25,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 556,
+        "proposed_node": 47,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 557,
+        "proposed_node": 25,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 558,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 559,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 560,
+        "proposed_node": 42,
+        "outcome": "BLOCKED",
+        "latency_ms": 1.74,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 561,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 562,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 563,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 564,
+        "proposed_node": 3,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 565,
+        "proposed_node": 7,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 566,
+        "proposed_node": 26,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 567,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 568,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 569,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 570,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.74,
+        "reason": "SAFE"
+    },
+    {
+        "step": 571,
+        "proposed_node": 15,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 572,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 573,
+        "proposed_node": 27,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 574,
+        "proposed_node": 5,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 575,
+        "proposed_node": 24,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 576,
+        "proposed_node": 30,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 577,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 578,
+        "proposed_node": 18,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 579,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.89,
+        "reason": "SAFE"
+    },
+    {
+        "step": 580,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.02,
+        "reason": "SAFE"
+    },
+    {
+        "step": 581,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 582,
+        "proposed_node": 10,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 583,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 584,
+        "proposed_node": 48,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 585,
+        "proposed_node": 9,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 586,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 587,
+        "proposed_node": 23,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 588,
+        "proposed_node": 19,
+        "outcome": "BLOCKED",
+        "latency_ms": 1.74,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 589,
+        "proposed_node": 48,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 590,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 591,
+        "proposed_node": 35,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 592,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 593,
+        "proposed_node": 36,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 594,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 595,
+        "proposed_node": 34,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 596,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 597,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.74,
+        "reason": "SAFE"
+    },
+    {
+        "step": 598,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 599,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 600,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 601,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 602,
+        "proposed_node": 30,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 603,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 604,
+        "proposed_node": 4,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 605,
+        "proposed_node": 39,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 606,
+        "proposed_node": 30,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 607,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.74,
+        "reason": "SAFE"
+    },
+    {
+        "step": 608,
+        "proposed_node": 30,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 609,
+        "proposed_node": 39,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 610,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 611,
+        "proposed_node": 23,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 612,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 613,
+        "proposed_node": 24,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 614,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 615,
+        "proposed_node": 28,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 616,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 617,
+        "proposed_node": 40,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 618,
+        "proposed_node": 38,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 619,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 620,
+        "proposed_node": 10,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 621,
+        "proposed_node": 12,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 622,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 623,
+        "proposed_node": 3,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 624,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 11.08,
+        "reason": "SAFE"
+    },
+    {
+        "step": 625,
+        "proposed_node": 46,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 626,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 627,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 4.56,
+        "reason": "SAFE"
+    },
+    {
+        "step": 628,
+        "proposed_node": 24,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 629,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 630,
+        "proposed_node": 29,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 631,
+        "proposed_node": 18,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 632,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 633,
+        "proposed_node": 27,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 634,
+        "proposed_node": 19,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 635,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 636,
+        "proposed_node": 23,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.67,
+        "reason": "SAFE"
+    },
+    {
+        "step": 637,
+        "proposed_node": 27,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 638,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 639,
+        "proposed_node": 10,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 640,
+        "proposed_node": 23,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 641,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 642,
+        "proposed_node": 27,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 643,
+        "proposed_node": 34,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 644,
+        "proposed_node": 15,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 645,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 646,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.84,
+        "reason": "SAFE"
+    },
+    {
+        "step": 647,
+        "proposed_node": 26,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 648,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 649,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 650,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 651,
+        "proposed_node": 26,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 652,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 653,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 654,
+        "proposed_node": 33,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 655,
+        "proposed_node": 36,
+        "outcome": "BLOCKED",
+        "latency_ms": 13.95,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 656,
+        "proposed_node": 35,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 657,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 658,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 659,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 660,
+        "proposed_node": 40,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 661,
+        "proposed_node": 11,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 662,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 663,
+        "proposed_node": 19,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 664,
+        "proposed_node": 41,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 665,
+        "proposed_node": 32,
+        "outcome": "BLOCKED",
+        "latency_ms": 16.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 666,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 667,
+        "proposed_node": 40,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 668,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 669,
+        "proposed_node": 42,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 670,
+        "proposed_node": 22,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 671,
+        "proposed_node": 10,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 672,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 673,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 674,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 675,
+        "proposed_node": 8,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 676,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.97,
+        "reason": "SAFE"
+    },
+    {
+        "step": 677,
+        "proposed_node": 37,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 678,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 4.13,
+        "reason": "SAFE"
+    },
+    {
+        "step": 679,
+        "proposed_node": 14,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.72,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 680,
+        "proposed_node": 47,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 681,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 682,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 683,
+        "proposed_node": 42,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 684,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 685,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 10.12,
+        "reason": "SAFE"
+    },
+    {
+        "step": 686,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.22,
+        "reason": "SAFE"
+    },
+    {
+        "step": 687,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 688,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 689,
+        "proposed_node": 2,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 690,
+        "proposed_node": 21,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 691,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 692,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 693,
+        "proposed_node": 27,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 694,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 695,
+        "proposed_node": 15,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.94,
+        "reason": "SAFE"
+    },
+    {
+        "step": 696,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 697,
+        "proposed_node": 11,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 698,
+        "proposed_node": 42,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 699,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 700,
+        "proposed_node": 16,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 701,
+        "proposed_node": 22,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 702,
+        "proposed_node": 47,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 703,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 704,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 705,
+        "proposed_node": 26,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.86,
+        "reason": "SAFE"
+    },
+    {
+        "step": 706,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 707,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 708,
+        "proposed_node": 21,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 709,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 710,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 711,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 712,
+        "proposed_node": 14,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 713,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.78,
+        "reason": "SAFE"
+    },
+    {
+        "step": 714,
+        "proposed_node": 47,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 715,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 716,
+        "proposed_node": 12,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 717,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 718,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 719,
+        "proposed_node": 0,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 720,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 721,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 722,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 723,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.99,
+        "reason": "SAFE"
+    },
+    {
+        "step": 724,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 725,
+        "proposed_node": 38,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 726,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 727,
+        "proposed_node": 4,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 728,
+        "proposed_node": 40,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 729,
+        "proposed_node": 36,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 730,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 731,
+        "proposed_node": 32,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 732,
+        "proposed_node": 4,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 733,
+        "proposed_node": 24,
+        "outcome": "BLOCKED",
+        "latency_ms": 15.86,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 734,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 735,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 736,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 737,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 738,
+        "proposed_node": 47,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 739,
+        "proposed_node": 41,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 740,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 741,
+        "proposed_node": 47,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 742,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 743,
+        "proposed_node": 47,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.9,
+        "reason": "SAFE"
+    },
+    {
+        "step": 744,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 745,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 746,
+        "proposed_node": 33,
+        "outcome": "EXECUTED",
+        "latency_ms": 4.77,
+        "reason": "SAFE"
+    },
+    {
+        "step": 747,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 748,
+        "proposed_node": 33,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 749,
+        "proposed_node": 26,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 750,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 751,
+        "proposed_node": 48,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 752,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 753,
+        "proposed_node": 46,
+        "outcome": "BLOCKED",
+        "latency_ms": 11.29,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 754,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 755,
+        "proposed_node": 47,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 756,
+        "proposed_node": 12,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 757,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 758,
+        "proposed_node": 47,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 759,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 760,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 761,
+        "proposed_node": 42,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 762,
+        "proposed_node": 17,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 763,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.96,
+        "reason": "SAFE"
+    },
+    {
+        "step": 764,
+        "proposed_node": 12,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 765,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 766,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 767,
+        "proposed_node": 11,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 768,
+        "proposed_node": 25,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 769,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 770,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 771,
+        "proposed_node": 17,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 772,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 773,
+        "proposed_node": 49,
+        "outcome": "EXECUTED",
+        "latency_ms": 16.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 774,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 775,
+        "proposed_node": 33,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 776,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 777,
+        "proposed_node": 24,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 778,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 779,
+        "proposed_node": 8,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 780,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 781,
+        "proposed_node": 16,
+        "outcome": "BLOCKED",
+        "latency_ms": 18.06,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 782,
+        "proposed_node": 28,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 783,
+        "proposed_node": 12,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 784,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 785,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 786,
+        "proposed_node": 24,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 787,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 788,
+        "proposed_node": 12,
+        "outcome": "BLOCKED",
+        "latency_ms": 1.74,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 789,
+        "proposed_node": 32,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 790,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 791,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 792,
+        "proposed_node": 46,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 793,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 794,
+        "proposed_node": 31,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 795,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 796,
+        "proposed_node": 20,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 797,
+        "proposed_node": 31,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 798,
+        "proposed_node": 3,
+        "outcome": "BLOCKED",
+        "latency_ms": 1.74,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 799,
+        "proposed_node": 16,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 800,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 801,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 802,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 803,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 804,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.51,
+        "reason": "SAFE"
+    },
+    {
+        "step": 805,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 806,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 807,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 808,
+        "proposed_node": 14,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 809,
+        "proposed_node": 7,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 810,
+        "proposed_node": 8,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 811,
+        "proposed_node": 42,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 812,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 813,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 814,
+        "proposed_node": 14,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 815,
+        "proposed_node": 21,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 816,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 817,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 818,
+        "proposed_node": 48,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.74,
+        "reason": "SAFE"
+    },
+    {
+        "step": 819,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 820,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 821,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 822,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 823,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 824,
+        "proposed_node": 6,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 825,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 826,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 827,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.74,
+        "reason": "SAFE"
+    },
+    {
+        "step": 828,
+        "proposed_node": 19,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 829,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 830,
+        "proposed_node": 29,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 831,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 832,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 833,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 834,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 835,
+        "proposed_node": 30,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 836,
+        "proposed_node": 24,
+        "outcome": "BLOCKED",
+        "latency_ms": 1.74,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 837,
+        "proposed_node": 7,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 838,
+        "proposed_node": 44,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 839,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 840,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 841,
+        "proposed_node": 27,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 842,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 843,
+        "proposed_node": 7,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 844,
+        "proposed_node": 46,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 845,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 16.08,
+        "reason": "SAFE"
+    },
+    {
+        "step": 846,
+        "proposed_node": 31,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 847,
+        "proposed_node": 17,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 848,
+        "proposed_node": 2,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 849,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 850,
+        "proposed_node": 15,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 851,
+        "proposed_node": 6,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 852,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 853,
+        "proposed_node": 49,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 854,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 855,
+        "proposed_node": 12,
+        "outcome": "EXECUTED",
+        "latency_ms": 16.17,
+        "reason": "SAFE"
+    },
+    {
+        "step": 856,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.75,
+        "reason": "SAFE"
+    },
+    {
+        "step": 857,
+        "proposed_node": 17,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 858,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 859,
+        "proposed_node": 20,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 860,
+        "proposed_node": 39,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 861,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 862,
+        "proposed_node": 29,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 863,
+        "proposed_node": 32,
+        "outcome": "BLOCKED",
+        "latency_ms": 7.51,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 864,
+        "proposed_node": 0,
+        "outcome": "BLOCKED",
+        "latency_ms": 1.78,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 865,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 866,
+        "proposed_node": 6,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 867,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 868,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 869,
+        "proposed_node": 47,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 870,
+        "proposed_node": 43,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 871,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 872,
+        "proposed_node": 7,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 873,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 16.05,
+        "reason": "SAFE"
+    },
+    {
+        "step": 874,
+        "proposed_node": 30,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 875,
+        "proposed_node": 34,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 876,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 877,
+        "proposed_node": 39,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 878,
+        "proposed_node": 45,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 879,
+        "proposed_node": 33,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 880,
+        "proposed_node": 41,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 881,
+        "proposed_node": 11,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 882,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 883,
+        "proposed_node": 45,
+        "outcome": "EXECUTED",
+        "latency_ms": 16.2,
+        "reason": "SAFE"
+    },
+    {
+        "step": 884,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 885,
+        "proposed_node": 16,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 886,
+        "proposed_node": 25,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 887,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 888,
+        "proposed_node": 45,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 889,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 890,
+        "proposed_node": 40,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 891,
+        "proposed_node": 11,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 892,
+        "proposed_node": 7,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 893,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.73,
+        "reason": "SAFE"
+    },
+    {
+        "step": 894,
+        "proposed_node": 41,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.28,
+        "reason": "SAFE"
+    },
+    {
+        "step": 895,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 896,
+        "proposed_node": 45,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.66,
+        "reason": "SAFE"
+    },
+    {
+        "step": 897,
+        "proposed_node": 22,
+        "outcome": "BLOCKED",
+        "latency_ms": 1.64,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 898,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.11,
+        "reason": "SAFE"
+    },
+    {
+        "step": 899,
+        "proposed_node": 30,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 900,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 901,
+        "proposed_node": 49,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 902,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 7.3,
+        "reason": "SAFE"
+    },
+    {
+        "step": 903,
+        "proposed_node": 49,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 904,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 905,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 906,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 907,
+        "proposed_node": 16,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 908,
+        "proposed_node": 24,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 909,
+        "proposed_node": 32,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 910,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 911,
+        "proposed_node": 27,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 912,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 16.08,
+        "reason": "SAFE"
+    },
+    {
+        "step": 913,
+        "proposed_node": 0,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 914,
+        "proposed_node": 16,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 915,
+        "proposed_node": 30,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 916,
+        "proposed_node": 8,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 917,
+        "proposed_node": 1,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 918,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 919,
+        "proposed_node": 27,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 920,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 921,
+        "proposed_node": 23,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 922,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 923,
+        "proposed_node": 11,
+        "outcome": "EXECUTED",
+        "latency_ms": 16.15,
+        "reason": "SAFE"
+    },
+    {
+        "step": 924,
+        "proposed_node": 7,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 925,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.51,
+        "reason": "SAFE"
+    },
+    {
+        "step": 926,
+        "proposed_node": 8,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 927,
+        "proposed_node": 45,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 928,
+        "proposed_node": 27,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 929,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 930,
+        "proposed_node": 11,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 931,
+        "proposed_node": 9,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 932,
+        "proposed_node": 42,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 933,
+        "proposed_node": 0,
+        "outcome": "BLOCKED",
+        "latency_ms": 3.51,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 934,
+        "proposed_node": 26,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 935,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 936,
+        "proposed_node": 24,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 937,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 938,
+        "proposed_node": 34,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 939,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 940,
+        "proposed_node": 24,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 941,
+        "proposed_node": 30,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 942,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 943,
+        "proposed_node": 17,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.74,
+        "reason": "SAFE"
+    },
+    {
+        "step": 944,
+        "proposed_node": 13,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 945,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 946,
+        "proposed_node": 24,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 947,
+        "proposed_node": 41,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 948,
+        "proposed_node": 1,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 949,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 950,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 951,
+        "proposed_node": 19,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 952,
+        "proposed_node": 36,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 953,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 1.74,
+        "reason": "SAFE"
+    },
+    {
+        "step": 954,
+        "proposed_node": 39,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 955,
+        "proposed_node": 22,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 956,
+        "proposed_node": 47,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 957,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 958,
+        "proposed_node": 44,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 959,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 960,
+        "proposed_node": 44,
+        "outcome": "EXECUTED",
+        "latency_ms": 4.98,
+        "reason": "SAFE"
+    },
+    {
+        "step": 961,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 962,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 3.02,
+        "reason": "SAFE"
+    },
+    {
+        "step": 963,
+        "proposed_node": 40,
+        "outcome": "BLOCKED",
+        "latency_ms": 2.01,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 964,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 965,
+        "proposed_node": 12,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 966,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 967,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 968,
+        "proposed_node": 30,
+        "outcome": "EXECUTED",
+        "latency_ms": 2.01,
+        "reason": "SAFE"
+    },
+    {
+        "step": 969,
+        "proposed_node": 0,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 970,
+        "proposed_node": 24,
+        "outcome": "EXECUTED",
+        "latency_ms": 3.69,
+        "reason": "SAFE"
+    },
+    {
+        "step": 971,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 972,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 973,
+        "proposed_node": 29,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 974,
+        "proposed_node": 1,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 975,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 976,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 977,
+        "proposed_node": 45,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 978,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 979,
+        "proposed_node": 45,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.92,
+        "reason": "SAFE"
+    },
+    {
+        "step": 980,
+        "proposed_node": 5,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 981,
+        "proposed_node": 3,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 982,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 983,
+        "proposed_node": 42,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 984,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 7.46,
+        "reason": "SAFE"
+    },
+    {
+        "step": 985,
+        "proposed_node": 45,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 986,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 987,
+        "proposed_node": 42,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 988,
+        "proposed_node": 4,
+        "outcome": "BLOCKED",
+        "latency_ms": 0.0,
+        "reason": "VIOLATION_DETECTED"
+    },
+    {
+        "step": 989,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 8.35,
+        "reason": "SAFE"
+    },
+    {
+        "step": 990,
+        "proposed_node": 40,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 991,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 992,
+        "proposed_node": 13,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 993,
+        "proposed_node": 5,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 994,
+        "proposed_node": 20,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 995,
+        "proposed_node": 45,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 996,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 997,
+        "proposed_node": 42,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 998,
+        "proposed_node": 36,
+        "outcome": "EXECUTED",
+        "latency_ms": 0.0,
+        "reason": "SAFE"
+    },
+    {
+        "step": 999,
+        "proposed_node": 40,
+        "outcome": "EXECUTED",
+        "latency_ms": 15.78,
+        "reason": "SAFE"
+    }
+]
