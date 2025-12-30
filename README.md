@@ -53,9 +53,7 @@ pip install z3-solver networkx
 # 3. Run the Stress Test
 python -m experiments.run_stress_test
 ```
-<br>
-<h3 align="center">🔗 Citation</h3>
-
+### 🔗 Citation
 If you use this framework, please cite:
 
 **Sai Mahesh Sandeboina, "Omni-Guard: A Neuro-Symbolic Runtime Verification Kernel for Embodied Agent," 2025.**
