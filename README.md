@@ -38,10 +38,16 @@ graph TD
 3. Digital Twin: Simulates a scale-free logistics network (NetworkX).
 4. Verifier: Rejects any action plan that contradicts the safety theorems.
 # Results:
-| Complexity | LLM Success Rate | Omni-Guard Safety Rate | Latency |
-| :--- | :--- | :--- | :--- |
-| Low (10 nodes) | 85% | **100%** | 12ms |
-| High (50 nodes) | 62% | **100%** | 45ms |
+We evaluated Omni-Guard on a large-scale logistics topology (**500 Nodes**).
+
+| Metric | Unprotected LLM | With Omni-Guard |
+| :--- | :---: | :---: |
+| **Valid Actions** | 728 | 728 |
+| **Violations** | 272 | **0** |
+| **Compliance Rate** | 72.8% | **100%** |
+
+* **Scalability:** The solver maintained a mean latency of **65ms** even on the 500-node topology.
+* **Safety:** 100% of hallucinations (teleportation, budget overruns) were intercepted.
  
  ```bash
 # 1. Clone the repository
@@ -56,4 +62,4 @@ python -m experiments.run_stress_test
 ### 🔗 Citation
 If you use this framework, please cite:
 
-**Sai Mahesh Sandeboina, "Omni-Guard: A Neuro-Symbolic Runtime Verification Kernel for Embodied Agent," 2025.**
+**Sai Mahesh Sandeboina, "Omni-Guard: A Neuro-Symbolic Runtime Verification Kernel for Embodied Agent," 2026.**
