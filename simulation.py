@@ -80,8 +80,8 @@ def simulate_llm_planner(graph, current_node):
 
 def run_experiment():
     print("Initializing Logistics Digital Twin...")
-    # Create a random graph (50 nodes, as promised in the paper)
-    G = nx.scale_free_graph(50, seed=42)
+    # Create a random graph 
+    G = nx.scale_free_graph(500, seed=42)
     G = nx.Graph(G) # Convert to undirected
     
     guard = OmniGuard(G, budget_limit=100)
